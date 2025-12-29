@@ -212,12 +212,12 @@ subtitle-splitter/
 
 ---
 
-## 🛡 License
+## License
 
 Released under the **MIT [LICENSE](LICENSE)**.
 
 ---
 
-## 👤 Author
+## Author
 
 Zar Zar Hlaing
