@@ -214,7 +214,7 @@ subtitle-splitter/
 
 ## 🛡 License
 
-Released under the **MIT License**.
+Released under the **MIT [LICENSE](LICENSE)**.
 
 ---
 
